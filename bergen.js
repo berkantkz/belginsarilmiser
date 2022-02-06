@@ -35,7 +35,7 @@ lyrics = {
 var song = lyrics[Math.floor(Math.random() * songList.length)];
 var lyric = song[Math.floor(Math.random() * song.length)];
 
-var uri = "https://api.telegram.org/" + botApiKey + "/sendMessage?chat_id=@bergensozleri&parse_mode=markdown&text=" + "" + lyric + "";
+var uri = "https://api.telegram.org/" + botApiKey + "/sendMessage?chat_id=@belginsarilmiser&parse_mode=markdown&text=" + "" + lyric + "";
 
 request(encodeURI(uri), function (error, response, body) {
     if (!error && response.statusCode == 200) {
