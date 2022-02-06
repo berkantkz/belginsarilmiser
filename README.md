@@ -1,4 +1,4 @@
-## bergen sözleri
+## bergen
 
 ![bergen](bergen.jpg)
 
