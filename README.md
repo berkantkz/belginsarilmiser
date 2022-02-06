@@ -2,4 +2,4 @@
 
 ![bergen](bergen.jpg)
 
-sözleri bildirim olarak almak için telegram'da [bergen sözleri](https://t.me/bergensozleri) kanalına katılın.
+sözleri bildirim olarak almak için telegram'da [bergen](https://t.me/belginsarilmiser) kanalına katılın.
